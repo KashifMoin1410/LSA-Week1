@@ -1,26 +1,27 @@
-  
-\# Week 1 Python Assignment – Dataset Exploration
 
-This repository contains the \*\*Week 1 Python assignment\*\*, completed as part of an internship learning programme.    
-The assignment focuses on \*\*core Python concepts\*\* and \*\*introductory data exploration techniques\*\* using a real-world dataset.
+
+# **Week 1 Python Assignment – Dataset Exploration**
+
+This repository contains the **Week 1 Python assignment**, completed as part of an internship learning programme.    
+The assignment focuses on core Python concepts and introductory data exploration techniques using a real-world dataset.
 
 The work reflects my ongoing learning in Python, data analysis, and modern AI-assisted development workflows.
 
-\---
+---
 
-\#\# 1\. Project Overview
+## **1\. Project Overview**
 
-The objective of this assignment is to:  
-\- Practice Python programming fundamentals  
-\- Apply basic control structures and functions  
-\- Perform introductory data exploration using Pandas  
-\- Visualise data using standard plotting libraries
+The objective of this assignment is to:
 
-\---
+* Practice Python programming fundamentals  
+* Apply basic control structures and functions  
+* Perform introductory data exploration using Pandas  
+* Visualise data using standard plotting libraries
 
-\#\# 2\. Repository Structure
+---
 
-\`\`\`text  
+## **2\. Repository Structure**
+
 .  
 ├── Week\_1\_Assignment.ipynb  
 ├── cars.csv  
